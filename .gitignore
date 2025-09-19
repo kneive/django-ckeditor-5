@@ -9,7 +9,6 @@
 *.egg
 db.sqlite3
 .idea
-/dist
 django_ckeditor_5/node_modules/
 .vscode/
 build/
